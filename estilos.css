@@ -1,0 +1,18 @@
+body {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 40px;
+}
+
+pre {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+header {
+  margin-top: 60px;
+}
